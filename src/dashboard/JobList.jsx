@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React, { useState } from "react";
 
 const JobList = () => {
@@ -85,7 +85,7 @@ const tdStyle = {
   border: "1px solid #ddd"
 };
 
-=======
+
 import React, { useState } from "react";
 
 const JobList = () => {
@@ -172,5 +172,5 @@ const tdStyle = {
   border: "1px solid #ddd"
 };
 
->>>>>>> 0f86b92ae9347c45592366f4625eaa1681b18747
+
 export default JobList;
